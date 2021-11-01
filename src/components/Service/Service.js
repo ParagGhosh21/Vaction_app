@@ -13,7 +13,7 @@ const Service = ({ service }) => {
           <h5 className="card-title">Name : {name}</h5>
           <p><b>Description :</b> {description.slice(0, 110)}</p>
           <div className='text-center'>
-            <Link to={`/information/${_id}`}><button className=' btn btn-warning  '>Book Now</button></Link>
+            <Link to={`/information/${_id}`}><button className=' btn btn-warning  '>Book Heer</button></Link>
           </div>
 
         </div>

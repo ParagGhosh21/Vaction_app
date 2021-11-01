@@ -31,7 +31,7 @@ const ManageAllBookings = () => {
     return (
         <div>
             <div>
-                <h1 className='text-center opacity-75 my-5 '>Manage All Bookings Here</h1>
+                <h1 className='text-center opacity-75 my-5 '>Book here</h1>
             </div>
             <div>
                 {
